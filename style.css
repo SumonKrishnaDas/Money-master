@@ -1,0 +1,80 @@
+.heading{
+
+text-align: center;
+color: aqua;
+
+
+
+}
+
+.imglog{
+
+
+
+
+    width: 100px;
+    height: 100px;
+}
+.header{
+
+
+    display: flex;
+   justify-content: center;
+
+
+}
+.img{
+
+
+    width: 500px;
+    height: 500px;
+}
+
+.main{
+
+
+    display: flex;
+    justify-content: space-around;
+   
+}
+.data{
+
+
+    display: flex;
+}
+.input{
+
+    height: 30px;
+}
+
+.tr{
+    border-spacing: 5em;
+
+
+
+}
+
+.button{
+margin-top: 10px;
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.butto{
+
+
+ 
+    background-color: aqua;
+    border: none;
+    padding: 5px 20px;
+    color: aliceblue;
+    border-radius: 10px;
+
+
+
+
+    
+}
